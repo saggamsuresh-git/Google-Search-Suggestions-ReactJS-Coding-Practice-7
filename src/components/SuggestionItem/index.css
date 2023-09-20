@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.arrow-image {
+  height: 26px;
+}
+.list-item {
+  display: flex;
+  justify-content: space-between;
+  min-width: 510px;
+}
+img {
+  margin-top: 10px;
+}
+p {
+  color: #475569;
+}
+
+.arrow-button {
+  outline: none;
+  background-color: #fff;
+  border: none;
+  cursor: pointer;
+}
